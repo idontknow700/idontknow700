@@ -6,8 +6,8 @@
 Here are some ideas to get you started:-->
 
 Something about me-
-- Lead developer in CMIT's website and worked as a dev in PSIT
-- I’m currently learning Quantum Field Theory & General relativity
+- I’m currently learning Topological Quantum Field Theory and interested in mathematical physics
+- Worked as lead developer in CMIT's website and as a dev in PSIT
 - Ask me about my present works if any questions
 - How to reach me: aryanbhatia21@iisertvm.ac.in
 
